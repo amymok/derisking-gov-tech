@@ -4,6 +4,8 @@ We're so glad you're thinking about contributing to a [open source project of th
 
 We encourage you to read this project's CONTRIBUTING policy (you are here), its [LICENSE](LICENSE.md), and its [README](README.md).
 
+💻 To get started coding, refer to the [Setup instructions](https://github.com/18F/derisking-gov-tech/wiki)
+
 ## Policies
 
 We want to ensure a welcoming environment for all of our projects. Our staff follow the [TTS Code of Conduct](https://18f.gsa.gov/code-of-conduct/) and all contributors should do the same.
