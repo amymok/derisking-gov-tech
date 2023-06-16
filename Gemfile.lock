@@ -126,16 +126,16 @@ PLATFORMS
 
 DEPENDENCIES
   autoprefixer-rails
-  html-proofer (~> 3.10)
+  html-proofer (~> 3.14, >= 3.14.1)
   jekyll (~> 3.8)
-  jekyll-assets (~> 3.0)
+  jekyll-assets (~> 3.0, >= 3.0.12)
   jekyll-feed (~> 0.6)
   jekyll-paginate-v2 (= 2.0)
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
   kramdown-parser-gfm (~> 1.1.0)
-  sprockets (~> 3.7)
+  sprockets (~> 3.7, >= 3.7.2)
   tzinfo-data
 
 RUBY VERSION
