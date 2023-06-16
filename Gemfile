@@ -1,4 +1,4 @@
-ruby '~>2.7.0'
+ruby '~>2.7.5'
 
 source "https://rubygems.org"
 
@@ -13,7 +13,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.8"
 
 # See https://github.com/envygeeks/jekyll-assets/issues/622
-gem "sprockets", "~> 3.7"
+gem "sprockets", "~> 3.7", ">= 3.7.2"
 gem "kramdown-parser-gfm", "~> 1.1.0"
 gem "autoprefixer-rails"
 
