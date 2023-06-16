@@ -1,4 +1,4 @@
-ruby '~>2.7.0'
+ruby '~>2.7.5'
 
 source "https://rubygems.org"
 
@@ -24,7 +24,7 @@ group :jekyll_plugins do
   gem 'jekyll-paginate-v2', "2.0"
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
-  gem "jekyll-assets", "~> 3.0", group: :jekyll_plugins
+  gem "jekyll-assets", "~> 3.0", ">= 3.0.12", group: :jekyll_plugins
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
