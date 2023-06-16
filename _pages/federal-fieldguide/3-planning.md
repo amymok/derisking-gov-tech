@@ -379,7 +379,7 @@ It is demoralizing and expensive if a contractor is brought on to develop softwa
 
 #### Recommendation
 
-Federal agencies often assume a clear path to production. However, when the work with a contractor gets started, delivering and deploying code becomes a challenge that creates a lot of wasted time, effort, and frustration. This can quickly escalate, creating a lot of tension and ill-will at the start of a project
+Federal agencies often assume a clear path to production. However, when the work with a contractor gets started, delivering and deploying code becomes a challenge that creates a lot of wasted time, effort, and frustration. This can quickly escalate, creating a lot of tension and ill-will at the start of a project.
 
 Before a contract is awarded and the contractor team starts working, the agency should validate whether software can be deployed to an environment where users can see the work. There are two options: prototype a solution, or ask questions to gain clarity before a contractor gets started. Ideally, do both. 
 
@@ -395,7 +395,7 @@ The prototype should answer these questions:
 
 -   What processes or policies do a software team need to work through to provision services and deploy applications to them?
 
--   Which stakeholders are required for approvals?? What things do they need to approve? What form do applications for approval take?
+-   Which stakeholders are required for approvals? What things do they need to approve? What form do applications for approval take?
 
 ##### Ask detailed questions
 
@@ -559,7 +559,7 @@ The first meaningful step to provide the federal government with the same world-
 [^merits]: See the U.S. Department of Defense's [DoD Open Source Software (OSS) FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/#OSS_and_Security.2FSoftware_Assurance.2FSystem_Assurance.2FSupply_Chain_Risk_Management) for specifics.
 [^succeed]: Projects valued at $6M or greater, in Europe and the United States, that were completed satisfactorily, on time, and within budget. "Haze Report,” The Standish Group, 2015.
 [^rate]:  The [CALC tool](https://calc.gsa.gov/) provides a range of Multiple Award Schedules (MAS) ceiling prices for a given labor category. Decisions on reasonable comparison pricing for labor is the judgment call of the contracting officer. The average hourly labor rate will fluctuate over time based on contract awards.
-[^budget]: The A-11 memo section related to Information Technology can be found [here](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/fy19_it_budget_guidance.pdf).
+[^budget]: The A-11 memo section related to Information Technology can be found [here](https://www.whitehouse.gov/wp-content/uploads/2020/11/FY22ITBudget_CapitalPlanningGuidance.pdf).
 [^constitution]:  As a way to enforce its power of the purse on the executive, there is a significant body of law, called fiscal law, that controls how agencies may obligate Congressional appropriations. Examples include: the Purpose statute (31 U.S.C. § 1301(a)), Antideficiency Act (31 U.S.C. § 1341), Adequacy of Appropriations Act (41 USC 11), Miscellaneous Receipts Act (31 U.S.C. § 3302(b)), Bona Fide Needs (whose statutory basis is found at 31 U.S.C. § 1502, but is defined and interpreted through numerous GAO opinions), and Account Closing (31 U.S.C. § 1555). While readers should consult with their General Counsel on specific application or interpretation of laws, these topics are worth highlighting potential issues they present for modern software acquisitions in agencies.
 [^certainly]:Since 1977, the first year under the current system, Congress has passed appropriation bills on-time 4 times: 1977, 1989, 1995, 1997
 [^RDTE]: See [FY 2019 IT Budget – Capital Planning Guidance](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/fy19_it_budget_guidance.pdf) for specifics.
