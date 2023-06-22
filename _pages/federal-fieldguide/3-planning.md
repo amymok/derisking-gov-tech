@@ -20,7 +20,7 @@ subnav:
 - text: Scope efforts
   href: '#software-development-efforts-should-be-tightly-scoped-to-reduce-risk-and-avoid-overspending'
 - text: Path to production
-  href: '#clear-path-to-production-before-awarding-a-contact'
+  href: '#clear-path-to-production-before-awarding-a-contract'
 - text: Remote collaboration tools
   href: '#give-teams-access-to-the-remote-collaboration-tools-that-they-need-to-be-successful'
 - text: Technology budgeting
@@ -367,7 +367,7 @@ With agile development, an agency can give a reasonable estimate for cost and sc
 
 Product owners should develop a product roadmap and share it with stakeholders. Agencies should not use product roadmaps to forecast  what will be delivered when, but use them to help communicate the priority order in which work is anticipated to be done. They are designed to help deliver the highest value to users within a given budget or time constraint. 
 
-### Clear ‘path to production’ before awarding a contact
+### Clear ‘path to production’ before awarding a contract
 By **Heather Battaglia**, **T Carter Baxter**, **Kelsey Foley**, **Mark Hopson**, **Waldo Jaquith**, **Vicki McFadden**, **Steven Reilly**, **Greg Walker**
 
 **Challenge:** Not having a clear path to production derails development efforts.
